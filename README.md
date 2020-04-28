@@ -1,24 +1,7 @@
-# using-minio
+# show-image
+<p>Learn, how to get image that need to login first from minio</p>
 
-## Project setup
-```
-yarn install
-```
+## Technologies
+Using VueJS,Vue-Router and Minio
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Demo
