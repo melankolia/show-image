@@ -24,7 +24,7 @@ const Home = {
     this.minioClient = new Minio.Client({
       endPoint: "minio.nostratech.com",
       port: 80,
-      useSSL: true,
+      useSSL: false,
       accessKey: "admin",
       secretKey: "Welcome1$"
     });
